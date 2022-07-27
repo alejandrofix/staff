@@ -2,4 +2,4 @@ pandas
 numpy
 Pillow
 streamlit
-sklearn==0.24.2
+sklearn
