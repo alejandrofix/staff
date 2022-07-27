@@ -1,5 +1,5 @@
 pandas
 numpy
 Pillow
-streamlit==0.85.0
+streamlit
 sklearn
